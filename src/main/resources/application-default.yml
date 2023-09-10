@@ -1,0 +1,9 @@
+
+spring: 
+#  profiles: default
+  mvc: 
+    view: 
+      suffix: .html
+
+server: 
+  port: 8099
